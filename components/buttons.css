@@ -1,0 +1,52 @@
+#btn-subscribe{
+    text-decoration:none;
+    padding:14px 24px;
+    background-color: gray;
+    margin: 20px;
+    width:70px;
+    font-weight: 500;
+    font-size:18px;
+    font-family: 'Oswald', sans-serif;
+    color:black;
+}
+#btn-subscribe:hover{
+    background-color: lightgray;
+}
+.like-btn{
+    text-decoration:none;
+    font-family: 'Open Sans', sans-serif;
+    font-style:normal;
+    font-size:15px;
+    line-height: 23px;
+    text-align:justify;
+    font-weight:700;
+    color:black;
+    background-color: white;
+    border: 1px solid lightgray;
+    padding:8px 24px;
+
+}
+.like-btn:hover{
+    background-color: lightgray;
+}
+.reply-btn{
+    text-decoration:none;
+    font-family: 'Open Sans', sans-serif;
+    font-style:normal;
+    font-size:15px;
+    line-height: 23px;
+    text-align:justify;
+    font-weight:700;
+    color:white;
+    background-color: black;
+    padding:8px 24px;
+}
+.reply-btn:hover{
+    background-color: lightgray;
+}
+.icons{
+    font-size:24px;
+    font-style:normal;
+    font-weight:400;
+    line-height:24px;
+}

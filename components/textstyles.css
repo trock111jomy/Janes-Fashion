@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+.title-text{
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    font-weight:700;
+    line-height: 72px;
+    text-align: center;
+}
+.subtitle-text{
+    font-style: normal;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight:100;
+    line-height: 24px;
+    text-align: center;
+}
+#subtitle-text-inverse{
+    font-style: normal;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight:100;
+    line-height: 24px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 3px;
+}
+.banner-subtitle{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 54px;
+    margin-left:20px;
+}
+.banner-title{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 96px;
+    margin-left:20px;
+    margin-bottom:20px; 
+}
+.title-head{
+    font-family: 'Oswald', sans-serif;
+    font-style: bold;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+.subtitle{
+    font-family: 'Oswald', sans-serif;
+    font-style: bold;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.normal{
+    font-family: 'Open Sans', sans-serif;
+    font-style:normal;
+    font-size:15px;
+    line-height: 23px;
+    text-align:justify;
+}
+.inverted-number{
+    background-color:white;
+    color:black;
+    padding:1px 8px;
+    margin-left:10px;
+}
+.date{
+    color:lightgray;
+}
+.p-heading{
+    font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+    line-height: 30px;
+    font-style:normal;
+    color:white;
+    padding:10px;
+}
+.p-normal{
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+    line-height: 23px;
+    font-style:normal;
+    color:white;
+    font-weight: 400;
+    padding:10px;
+}
+.postcard-right-title{
+
+    font-size:18px;
+    line-height: 27px;
+    font-style:normal;
+    color:#000000;
+    font-weight: 400;
+    margin-bottom:0;
+}
+.postcard-right-subtitle{
+    font-size:15px;
+    line-height: 23px;
+    font-style:normal;
+    font-weight: 400;
+    color:#000000;
+    margin-top:0;
+}
+.boxborder-ash{
+    font-style:normal;
+    font-family: 'Open Sans', sans-serif;
+}
+.tag-selected{
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+    line-height:23px;
+    font-style:normal;
+    padding:2px 4px;
+    margin: 3px 4px;
+
+}
+.tag-unselected{
+    background: rgba(224, 223, 223, 0.438);
+    color:black;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+    line-height:18px;
+    font-style:normal;
+    padding:2px 4px;
+    margin: 3px 4px;
+}

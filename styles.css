@@ -1,0 +1,7 @@
+@import url("components/container.css");
+@import url("components/textstyles.css");
+@import url("components/buttons.css");
+@import url("components/input.css");
+body{
+    background-color: rgba(224, 223, 223, 0.438);
+}
